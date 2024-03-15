@@ -1,4 +1,4 @@
-<h1>Código base con las imágenes para crear el código de efecto parallax y animaciones a los elementos de la página</h1>
+<h1>Código para crear el efecto parallax y animaciones a los elementos de la página</h1>
 <h2>Creado solo con HTML5, CSS3 y JavaScript</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
@@ -7,7 +7,7 @@
   <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
 </ol>
 
-Listo ya tienes la carpeta con todas las imágenes que vamos a utilizar en el vídeo, de esa forma me puede seguir mucho mas cómodo, y no perderíamos tiempo descargando las imágenes.
+Listo ya tienes la carpeta con todos los códigos para que puedas practicar, ejecutar todos los cambios que desees y sobre todo internalizar los conocimientos impartidos.
 <h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
